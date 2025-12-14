@@ -1,4 +1,4 @@
-# 🎵 Sonos-Volume-Sync (Windows + SoCo)
+# 🎵 Sonos-Volume-Sync
 
 Small Windows helper for **Line-In setups** where your speaker is connected to the PC via cable (e.g. a **Sonos Five** via 3.5mm).
 
