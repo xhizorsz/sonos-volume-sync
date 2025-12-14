@@ -1,6 +1,8 @@
 # 🎵 Sonos-Volume-Sync (Windows + SoCo)
 
-Small Windows helper that intercepts the hardware volume keys when a **Sonos Five** is the default playback device and forwards them directly to the Sonos speaker (via [SoCo](https://github.com/SoCo/SoCo)) instead of changing the local Windows volume.
+Small Windows helper for **Line-In setups** where your speaker is connected to the PC via cable (e.g. a **Sonos Five** via 3.5mm).
+
+It intercepts the hardware volume keys when the Sonos/Line-In playback device is active and forwards them directly to the Sonos speaker (via [SoCo](https://github.com/SoCo/SoCo)) instead of changing the local Windows volume.
 
 The goal is to keep the PC volume fixed (e.g. at 33%) while adjusting the Sonos speaker volume via the Sonos HTTP/UPnP API (through SoCo).
 
