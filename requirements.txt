@@ -1,0 +1,6 @@
+soco
+pystray
+pillow
+pycaw
+PyInstaller
+comtypes

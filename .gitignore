@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Distribution / Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Project specific
+*.log
+sonos_volume_sync.config.json
+resume.bat
+sonos_volume_lock.ahk
+PROJECT_STATE.md
+todo.md

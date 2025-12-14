@@ -1,0 +1,10 @@
+{
+    "sonos_name": "Sonos Five",
+    "windows_device_name": "Sonos Five",
+    "pinned_volume": 33,
+    "volume_step": 1.0,
+    "use_exponential": true,
+    "exponential_factor": 10.0,
+    "notifications_enabled": false,
+    "debug_logging": false
+}
